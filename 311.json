@@ -1,0 +1,1894 @@
+{
+  "createdAt": "2020-05-06T18:03:12.240Z",
+  "total": 236,
+  "records": [
+    {
+      "case_enquiry_id": "101003270012",
+      "case_title": "Pick up Dead Animal",
+      "submittedphoto": null,
+      "open_dt": "2020-05-05 18:55:12",
+      "location": "733 E Sixth St  South Boston  MA  02127",
+      "_id": 73851
+    },
+    {
+      "case_enquiry_id": "101003269876",
+      "case_title": "Poor Conditions of Property",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eb1cc4a7505fff8acdeaf72/report.jpg",
+      "open_dt": "2020-05-05 16:28:07",
+      "location": "372 Athens St  South Boston  MA  02127",
+      "_id": 73824
+    },
+    {
+      "case_enquiry_id": "101003269819",
+      "case_title": "Unsanitary Conditions - Establishment",
+      "submittedphoto": null,
+      "open_dt": "2020-05-05 15:28:37",
+      "location": "258 K St  South Boston  MA  02127",
+      "_id": 73810
+    },
+    {
+      "case_enquiry_id": "101003269473",
+      "case_title": "Sign Repair",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eb178367505fff8acde81da/report.jpg",
+      "open_dt": "2020-05-05 10:29:00",
+      "location": "240 Silver St  South Boston  MA  02127",
+      "_id": 73752
+    },
+    {
+      "case_enquiry_id": "101003269281",
+      "case_title": "Request for Recycling Cart",
+      "submittedphoto": null,
+      "open_dt": "2020-05-05 07:54:00",
+      "location": "889 E Fourth St  South Boston  MA  02127",
+      "_id": 73719
+    },
+    {
+      "case_enquiry_id": "101003269278",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-05-05 07:49:15",
+      "location": "158 K St  South Boston  MA  02127",
+      "_id": 73718
+    },
+    {
+      "case_enquiry_id": "101003269257",
+      "case_title": "Requests for Street Cleaning",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eb14ba87505fff8acde7bd2/report.jpg",
+      "open_dt": "2020-05-05 07:19:00",
+      "location": "5 Major Michael J O'Connor Way  South Boston  MA  02127",
+      "_id": 73710
+    },
+    {
+      "case_enquiry_id": "101003269201",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 22:59:31",
+      "location": "735 E Third St  South Boston  MA  02127",
+      "_id": 73701
+    },
+    {
+      "case_enquiry_id": "101003269169",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 21:23:42",
+      "location": "561 E Fifth St  South Boston  MA  02127",
+      "_id": 73692
+    },
+    {
+      "case_enquiry_id": "101003269160",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eb0bc587505fff8acde75e1/photo_20200504_210311.jpg",
+      "open_dt": "2020-05-04 21:07:46",
+      "location": "651 E Sixth St  South Boston  MA  02127",
+      "_id": 73688
+    },
+    {
+      "case_enquiry_id": "101003269111",
+      "case_title": "Schedule Bulk Item Pickup",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 19:28:08",
+      "location": "171 H St  South Boston  MA  02127",
+      "_id": 73684
+    },
+    {
+      "case_enquiry_id": "101003269045",
+      "case_title": "Requests for Street Cleaning",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eb0947d7505fff8acde6329/report.jpg",
+      "open_dt": "2020-05-04 18:17:00",
+      "location": "48-52 W Broadway   South Boston  MA  02127",
+      "_id": 73675
+    },
+    {
+      "case_enquiry_id": "101003268845",
+      "case_title": "Tree Maintenance Requests",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 15:38:00",
+      "location": "621 E Eighth St  South Boston  MA  02127",
+      "_id": 73637
+    },
+    {
+      "case_enquiry_id": "101003268838",
+      "case_title": "Improper Storage of Trash (Barrels)",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 15:32:00",
+      "location": "39 Middle St  South Boston  MA  02127",
+      "_id": 73635
+    },
+    {
+      "case_enquiry_id": "101003268751",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 14:03:00",
+      "location": "171 K St  South Boston  MA  02127",
+      "_id": 73615
+    },
+    {
+      "case_enquiry_id": "101003268626",
+      "case_title": "Work w/out Permit",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 12:20:00",
+      "location": "559 E Fifth St  South Boston  MA  02127",
+      "_id": 73587
+    },
+    {
+      "case_enquiry_id": "101003268553",
+      "case_title": "Schedule a Bulk Item Pickup",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 11:37:00",
+      "location": "27 Old Harbor St  South Boston  MA  02127",
+      "_id": 73579
+    },
+    {
+      "case_enquiry_id": "101003268329",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eb010e775053e839ecb33e8/report.jpg",
+      "open_dt": "2020-05-04 08:56:16",
+      "location": "4 Glover Ct  South Boston  MA  02127",
+      "_id": 73530
+    },
+    {
+      "case_enquiry_id": "101003268300",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 08:33:32",
+      "location": "5 Glover Ct  South Boston  MA  02127",
+      "_id": 73524
+    },
+    {
+      "case_enquiry_id": "101003268253",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 07:40:11",
+      "location": "300-304 E Eighth St  South Boston  MA  02127",
+      "_id": 73518
+    },
+    {
+      "case_enquiry_id": "101003268216",
+      "case_title": "Requests for Street Cleaning",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 07:10:33",
+      "location": "13 Thomas Park  South Boston  MA  02127",
+      "_id": 73509
+    },
+    {
+      "case_enquiry_id": "101003268094",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-05-03 20:19:20",
+      "location": "1756 Columbia Rd  South Boston  MA  02127",
+      "_id": 73481
+    },
+    {
+      "case_enquiry_id": "101003267996",
+      "case_title": "Empty Litter Basket",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eaf382e7505160fa7fad33d/report.jpg",
+      "open_dt": "2020-05-03 17:31:36",
+      "location": "115 Dorchester Ave  South Boston  MA  02127",
+      "_id": 73479
+    },
+    {
+      "case_enquiry_id": "101003267917",
+      "case_title": "Needle Pickup",
+      "submittedphoto": null,
+      "open_dt": "2020-05-03 15:48:00",
+      "location": "2 H St  South Boston  MA  02127",
+      "_id": 73466
+    },
+    {
+      "case_enquiry_id": "101003267899",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-05-03 15:22:57",
+      "location": "204 L St  South Boston  MA  02127",
+      "_id": 73464
+    },
+    {
+      "case_enquiry_id": "101003267865",
+      "case_title": "Requests for Street Cleaning",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eaf10967505160fa7facc4b/report.jpg",
+      "open_dt": "2020-05-03 14:42:40",
+      "location": "715 E Broadway   South Boston  MA  02127",
+      "_id": 73460
+    },
+    {
+      "case_enquiry_id": "101003267567",
+      "case_title": "Improper Storage of Trash (Barrels)",
+      "submittedphoto": null,
+      "open_dt": "2020-05-03 00:21:53",
+      "location": "248 E St  South Boston  MA  02127",
+      "_id": 73412
+    },
+    {
+      "case_enquiry_id": "101003267468",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-05-02 19:43:05",
+      "location": "699 E Seventh St  South Boston  MA  02127",
+      "_id": 73402
+    },
+    {
+      "case_enquiry_id": "101003267410",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-05-02 18:09:53",
+      "location": "893 E Broadway  South Boston  MA  02127",
+      "_id": 73390
+    },
+    {
+      "case_enquiry_id": "101003267401",
+      "case_title": "Improper Storage of Trash (Barrels)",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eaded627505160fa7faaefd/report.jpg",
+      "open_dt": "2020-05-02 18:00:00",
+      "location": "148 Dorchester Ave  South Boston  MA  02127",
+      "_id": 73389
+    },
+    {
+      "case_enquiry_id": "101003267083",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-05-02 11:54:00",
+      "location": "211 K St  South Boston  MA  02127",
+      "_id": 73332
+    },
+    {
+      "case_enquiry_id": "101003267122",
+      "case_title": "Requests for Street Cleaning",
+      "submittedphoto": null,
+      "open_dt": "2020-05-02 12:55:14",
+      "location": "21 Winfield St  South Boston  MA  02127",
+      "_id": 73326
+    },
+    {
+      "case_enquiry_id": "101003266952",
+      "case_title": "Requests for Street Cleaning",
+      "submittedphoto": null,
+      "open_dt": "2020-05-02 09:11:54",
+      "location": "495 E Seventh St  South Boston  MA  02127",
+      "_id": 73307
+    },
+    {
+      "case_enquiry_id": "101003266864",
+      "case_title": "Request for Pothole Repair",
+      "submittedphoto": null,
+      "open_dt": "2020-05-01 22:04:00",
+      "location": "100 W Second St  South Boston  MA  02127",
+      "_id": 73292
+    },
+    {
+      "case_enquiry_id": "101003266588",
+      "case_title": "Missed Trash: District 05",
+      "submittedphoto": null,
+      "open_dt": "2020-05-01 14:22:00",
+      "location": "213 W Ninth St  South Boston  MA  02127",
+      "_id": 73252
+    },
+    {
+      "case_enquiry_id": "101003266585",
+      "case_title": "Missed Trash/Recycling/Yard Waste/Bulk Item",
+      "submittedphoto": null,
+      "open_dt": "2020-05-01 14:19:37",
+      "location": "675 E Eighth St  South Boston  MA  02127",
+      "_id": 73251
+    },
+    {
+      "case_enquiry_id": "101003266563",
+      "case_title": "Improper Storage of Trash (Barrels)",
+      "submittedphoto": null,
+      "open_dt": "2020-05-01 13:53:21",
+      "location": "815 E Fifth St  South Boston  MA  02127",
+      "_id": 73249
+    },
+    {
+      "case_enquiry_id": "101003266453",
+      "case_title": "Improper Storage of Trash (Barrels)",
+      "submittedphoto": null,
+      "open_dt": "2020-05-01 12:16:50",
+      "location": "6-8 Monks St  South Boston  MA  02127",
+      "_id": 73237
+    },
+    {
+      "case_enquiry_id": "101003266335",
+      "case_title": "Electrical",
+      "submittedphoto": null,
+      "open_dt": "2020-05-01 09:53:00",
+      "location": "1410 Columbia Rd  South Boston  MA  02127",
+      "_id": 73226
+    },
+    {
+      "case_enquiry_id": "101003266299",
+      "case_title": "CE Collection",
+      "submittedphoto": " https://cityworker.cityofboston.gov:8443/attachments/report/5eac2380e7f98198ee4a066d/photo/Report.jpg",
+      "open_dt": "2020-05-01 09:26:26",
+      "location": "358 W Broadway  South Boston  MA  02127",
+      "_id": 73214
+    },
+    {
+      "case_enquiry_id": "101003266287",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eac1fe7750591e755d7cb19/photo_20200501_091054.jpg",
+      "open_dt": "2020-05-01 09:11:12",
+      "location": "416 E Seventh St  South Boston  MA  02127",
+      "_id": 73210
+    },
+    {
+      "case_enquiry_id": "101003266265",
+      "case_title": "Improper Storage of Trash (Barrels)",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eac1b12750591e755d7ca5b/26ADB80C-6678-4C1B-9C0D-F3FA2C9F08D1.jpeg",
+      "open_dt": "2020-05-01 08:50:37",
+      "location": "907 E Broadway  South Boston  MA  02127",
+      "_id": 73204
+    },
+    {
+      "case_enquiry_id": "101003266188",
+      "case_title": "Working Beyond Hours",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 23:24:00",
+      "location": "733-733A E Fifth St  South Boston  MA  02127",
+      "_id": 73190
+    },
+    {
+      "case_enquiry_id": "101003266123",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 20:15:24",
+      "location": "151-155 K St  South Boston  MA  02127",
+      "_id": 73182
+    },
+    {
+      "case_enquiry_id": "101003266120",
+      "case_title": "New Tree Requests",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eab6528750591e755d7b186/report.jpg",
+      "open_dt": "2020-04-30 19:54:28",
+      "location": "241 W Fifth St  South Boston  MA  02127",
+      "_id": 73181
+    },
+    {
+      "case_enquiry_id": "101003266058",
+      "case_title": "Missed Recycling: District 05",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 18:03:00",
+      "location": "7 O St  South Boston  MA  02127",
+      "_id": 73170
+    },
+    {
+      "case_enquiry_id": "101003266016",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eab402c750591e755d70757/report.jpg",
+      "open_dt": "2020-04-30 17:16:38",
+      "location": "160 K St  South Boston  MA  02127",
+      "_id": 73167
+    },
+    {
+      "case_enquiry_id": "101003265958",
+      "case_title": "Improper Storage of Trash (Barrels)",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eab3179750591e755d705b0/photo_20200430_161336.jpg",
+      "open_dt": "2020-04-30 16:13:54",
+      "location": "20 Gates St  South Boston  MA  02127",
+      "_id": 73160
+    },
+    {
+      "case_enquiry_id": "101003265864",
+      "case_title": "Missed Trash: District 05",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 14:20:24",
+      "location": "152 Old Colony Ave  South Boston  MA  02127",
+      "_id": 73149
+    },
+    {
+      "case_enquiry_id": "101003265736",
+      "case_title": "Exceeding Terms of Permit",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 11:57:00",
+      "location": "171 K St  South Boston  MA  02127",
+      "_id": 73131
+    },
+    {
+      "case_enquiry_id": "101003265683",
+      "case_title": "Work w/out Permit",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 11:11:00",
+      "location": "388-390 W Fourth St  South Boston  MA  02127",
+      "_id": 73121
+    },
+    {
+      "case_enquiry_id": "101003265600",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 09:42:22",
+      "location": "171 K St  South Boston  MA  02127",
+      "_id": 73097
+    },
+    {
+      "case_enquiry_id": "101003265516",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 08:23:11",
+      "location": "151-155 K St  South Boston  MA  02127",
+      "_id": 73079
+    },
+    {
+      "case_enquiry_id": "101003265491",
+      "case_title": "Rodent Activity",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 08:01:00",
+      "location": "8 Pacific St  South Boston  MA  02127",
+      "_id": 73074
+    },
+    {
+      "case_enquiry_id": "101003265432",
+      "case_title": "Working Beyond Hours",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 06:29:00",
+      "location": "566 E Sixth St  South Boston  MA  02127",
+      "_id": 73057
+    },
+    {
+      "case_enquiry_id": "101003268630",
+      "case_title": "Work w/out Permit",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 12:22:00",
+      "location": "562 E Fifth St  South Boston  MA  02127",
+      "_id": 55613
+    },
+    {
+      "case_enquiry_id": "101003270100",
+      "case_title": "New Tree Requests",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eb214987505fff8acdebca1/report.jpg",
+      "open_dt": "2020-05-05 21:36:34",
+      "location": "411-413 W Second St  South Boston  MA  02127",
+      "_id": 55522
+    },
+    {
+      "case_enquiry_id": "101003270099",
+      "case_title": "Schedule Bulk Item Pickup",
+      "submittedphoto": null,
+      "open_dt": "2020-05-05 21:35:33",
+      "location": "371 Silver St  South Boston  MA  02127",
+      "_id": 55521
+    },
+    {
+      "case_enquiry_id": "101003270098",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-05-05 21:35:30",
+      "location": "706 E Seventh St  South Boston  MA  02127",
+      "_id": 55520
+    },
+    {
+      "case_enquiry_id": "101003270041",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-05-05 20:00:01",
+      "location": "706 E Seventh St  South Boston  MA  02127",
+      "_id": 55510
+    },
+    {
+      "case_enquiry_id": "101003270034",
+      "case_title": "Contractors Complaint",
+      "submittedphoto": null,
+      "open_dt": "2020-05-05 19:39:00",
+      "location": "380 W Broadway  South Boston  MA  02127",
+      "_id": 55508
+    },
+    {
+      "case_enquiry_id": "101003270016",
+      "case_title": "Missed Bulk Item Pickup: District 05",
+      "submittedphoto": null,
+      "open_dt": "2020-05-05 19:01:00",
+      "location": "202 N St  South Boston  MA  02127",
+      "_id": 55503
+    },
+    {
+      "case_enquiry_id": "101003269776",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-05-05 14:48:48",
+      "location": "1R Thomas Park  South Boston  MA  02127",
+      "_id": 55475
+    },
+    {
+      "case_enquiry_id": "101003269596",
+      "case_title": "Request for Recycling Cart",
+      "submittedphoto": null,
+      "open_dt": "2020-05-05 11:54:00",
+      "location": "618 E Sixth St  South Boston  MA  02127",
+      "_id": 55445
+    },
+    {
+      "case_enquiry_id": "101003269579",
+      "case_title": "Schedule a Bulk Item Pickup",
+      "submittedphoto": null,
+      "open_dt": "2020-05-05 11:40:00",
+      "location": "500 E Fourth St  South Boston  MA  02127",
+      "_id": 55442
+    },
+    {
+      "case_enquiry_id": "101003269459",
+      "case_title": "Request for Pothole Repair",
+      "submittedphoto": null,
+      "open_dt": "2020-05-05 10:23:00",
+      "location": "280 W Broadway  South Boston  MA  02127",
+      "_id": 55415
+    },
+    {
+      "case_enquiry_id": "101003269349",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-05-05 09:03:21",
+      "location": "768 E Fifth St  South Boston  MA  02127",
+      "_id": 55396
+    },
+    {
+      "case_enquiry_id": "101003269223",
+      "case_title": "Schedule Bulk Item Pickup",
+      "submittedphoto": null,
+      "open_dt": "2020-05-05 01:35:09",
+      "location": "5 Brewster St  South Boston  MA  02127",
+      "_id": 55371
+    },
+    {
+      "case_enquiry_id": "101003269038",
+      "case_title": "Pick up Dead Animal",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eb092a77505fff8acde62f1/photo_20200504_180915.jpg",
+      "open_dt": "2020-05-04 18:09:52",
+      "location": "174 W Second St  South Boston  MA  02127",
+      "_id": 55333
+    },
+    {
+      "case_enquiry_id": "101003268939",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eb07e9a7505fff8acde5fdc/report.jpg",
+      "open_dt": "2020-05-04 16:44:25",
+      "location": "3A Telegraph St  South Boston  MA  02127",
+      "_id": 55317
+    },
+    {
+      "case_enquiry_id": "101003268936",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eb07e2d7505fff8acde5fc1/report.jpg",
+      "open_dt": "2020-05-04 16:42:34",
+      "location": "2 Telegraph St  South Boston  MA  02127",
+      "_id": 55316
+    },
+    {
+      "case_enquiry_id": "101003268919",
+      "case_title": "Needle Pickup",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eb07abb7505fff8acde5f34/report.jpg",
+      "open_dt": "2020-05-04 16:27:48",
+      "location": "1690 Columbia Rd  South Boston  MA  02127",
+      "_id": 55314
+    },
+    {
+      "case_enquiry_id": "101003268849",
+      "case_title": "Work w/out Permit",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 15:44:00",
+      "location": "90 G St  South Boston  MA  02127",
+      "_id": 55306
+    },
+    {
+      "case_enquiry_id": "101003268710",
+      "case_title": "Illegal Dumping",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 13:27:00",
+      "location": "44 Ellery St  South Boston  MA  02127",
+      "_id": 55293
+    },
+    {
+      "case_enquiry_id": "101003268737",
+      "case_title": "Work w/out Permit",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 13:49:00",
+      "location": "553 E Fifth St  South Boston  MA  02127",
+      "_id": 55280
+    },
+    {
+      "case_enquiry_id": "101003268577",
+      "case_title": "Request for Pothole Repair",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 11:52:00",
+      "location": "1 Ellery St  South Boston  MA  02127",
+      "_id": 55263
+    },
+    {
+      "case_enquiry_id": "101003268507",
+      "case_title": "Sticker Request",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 11:00:37",
+      "location": "15 Thomas Park  South Boston  MA  02127",
+      "_id": 55250
+    },
+    {
+      "case_enquiry_id": "101003268448",
+      "case_title": "Unsanitary Conditions - Establishment",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 10:13:00",
+      "location": "334 Dorchester St  South Boston  MA  02127",
+      "_id": 55232
+    },
+    {
+      "case_enquiry_id": "101003268264",
+      "case_title": "Pick up Dead Animal",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 07:54:58",
+      "location": "27 Mercer St  South Boston  MA  02127",
+      "_id": 55205
+    },
+    {
+      "case_enquiry_id": "101003268263",
+      "case_title": "Pick up Dead Animal",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 07:53:55",
+      "location": "917 E Broadway  South Boston  MA  02127",
+      "_id": 55204
+    },
+    {
+      "case_enquiry_id": "101003268245",
+      "case_title": "Poor Conditions of Property",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eaffc8a7505160fa7fae32b/photo_20200504_072757.jpg",
+      "open_dt": "2020-05-04 07:29:23",
+      "location": "29 Mercer St  South Boston  MA  02127",
+      "_id": 55202
+    },
+    {
+      "case_enquiry_id": "101003268210",
+      "case_title": "Request for Recycling Cart",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 07:02:00",
+      "location": "113 W Third St  South Boston  MA  02127",
+      "_id": 55196
+    },
+    {
+      "case_enquiry_id": "101003268100",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-05-03 20:26:33",
+      "location": "19 Ward St  South Boston  MA  02127",
+      "_id": 55187
+    },
+    {
+      "case_enquiry_id": "101003267992",
+      "case_title": "Poor Conditions of Property",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eaf37467505160fa7fad304/report.jpg",
+      "open_dt": "2020-05-03 17:27:47",
+      "location": "429 W Fourth St  South Boston  MA  02127",
+      "_id": 55167
+    },
+    {
+      "case_enquiry_id": "101003267755",
+      "case_title": "Pest Infestation - Residential",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eaef14c7505160fa7fac61d/report.jpg",
+      "open_dt": "2020-05-03 12:29:00",
+      "location": "324 Athens St  South Boston  MA  02127",
+      "_id": 55131
+    },
+    {
+      "case_enquiry_id": "101003267605",
+      "case_title": "Litter / Ground Maintenance - Buckley Playground (BPRD)",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eaebf647505160fa7fabe78/photo_20200503_085556.jpg",
+      "open_dt": "2020-05-03 08:56:00",
+      "location": "289A-289 D St  South Boston  MA  02127",
+      "_id": 55108
+    },
+    {
+      "case_enquiry_id": "101003267539",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-05-02 22:24:26",
+      "location": "300-304 E Eighth St  South Boston  MA  02127",
+      "_id": 55100
+    },
+    {
+      "case_enquiry_id": "101003267461",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-05-02 19:29:35",
+      "location": "300-304 E Eighth St  South Boston  MA  02127",
+      "_id": 55097
+    },
+    {
+      "case_enquiry_id": "101003267271",
+      "case_title": "Improper Storage of Trash (Barrels)",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eadce0e7505160fa7faa904/photo_20200502_154229.jpg",
+      "open_dt": "2020-05-02 15:48:29",
+      "location": "8 Pacific St  South Boston  MA  02127",
+      "_id": 55074
+    },
+    {
+      "case_enquiry_id": "101003268348",
+      "case_title": "Work w/out Permit",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 09:09:00",
+      "location": "72 O St  South Boston  MA  02127",
+      "_id": 55052
+    },
+    {
+      "case_enquiry_id": "101003267058",
+      "case_title": "Request for Pothole Repair",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5ead92ff7505160fa7fa9fd7/photo_20200502_113317.jpg",
+      "open_dt": "2020-05-02 11:34:00",
+      "location": "600 Dorchester Ave  South Boston  MA  02127",
+      "_id": 55033
+    },
+    {
+      "case_enquiry_id": "101003267002",
+      "case_title": "Sign Repair",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5ead84147505160fa7fa9dcc/report.jpg",
+      "open_dt": "2020-05-02 10:30:00",
+      "location": "240 Silver St  South Boston  MA  02127",
+      "_id": 55019
+    },
+    {
+      "case_enquiry_id": "101003266759",
+      "case_title": "Unsanitary Conditions - Employees",
+      "submittedphoto": null,
+      "open_dt": "2020-05-01 17:34:00",
+      "location": "56 L St  South Boston  MA  02127",
+      "_id": 54969
+    },
+    {
+      "case_enquiry_id": "101003266755",
+      "case_title": "Improper Storage of Trash (Barrels)",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eac950a750591e755d7daf2/report.jpg",
+      "open_dt": "2020-05-01 17:31:02",
+      "location": "13 Vinton St  South Boston  MA  02127",
+      "_id": 54967
+    },
+    {
+      "case_enquiry_id": "101003266589",
+      "case_title": "Unsatisfactory Living Conditions",
+      "submittedphoto": null,
+      "open_dt": "2020-05-01 14:23:00",
+      "location": "747 E Broadway  South Boston  MA  02127",
+      "_id": 54935
+    },
+    {
+      "case_enquiry_id": "101003266586",
+      "case_title": "Request for Recycling Cart",
+      "submittedphoto": null,
+      "open_dt": "2020-05-01 14:20:00",
+      "location": "675 E Eighth St  South Boston  MA  02127",
+      "_id": 54934
+    },
+    {
+      "case_enquiry_id": "101003266544",
+      "case_title": "Missed Trash: District 05",
+      "submittedphoto": null,
+      "open_dt": "2020-05-01 13:35:00",
+      "location": "448 W Fourth St  South Boston  MA  02127",
+      "_id": 54925
+    },
+    {
+      "case_enquiry_id": "101003266296",
+      "case_title": "Missed Trash: District 05",
+      "submittedphoto": null,
+      "open_dt": "2020-05-01 09:24:00",
+      "location": "448 W Fourth St  South Boston  MA  02127",
+      "_id": 54869
+    },
+    {
+      "case_enquiry_id": "101003266288",
+      "case_title": "Request for Recycling Cart",
+      "submittedphoto": null,
+      "open_dt": "2020-05-01 09:12:00",
+      "location": "262-264 W Broadway  South Boston  MA  02127",
+      "_id": 54868
+    },
+    {
+      "case_enquiry_id": "101003266285",
+      "case_title": "Schedule a Bulk Item Pickup",
+      "submittedphoto": null,
+      "open_dt": "2020-05-01 09:10:53",
+      "location": "262-264 W Broadway  South Boston  MA  02127",
+      "_id": 54867
+    },
+    {
+      "case_enquiry_id": "101003266260",
+      "case_title": "Requests for Street Cleaning",
+      "submittedphoto": " https://cityworker.cityofboston.gov:8443/attachments/report/5eac197ce7f90fcef48eb8bd/photo/Report.jpg",
+      "open_dt": "2020-05-01 08:43:45",
+      "location": "424-426 W Broadway  South Boston  MA  02127",
+      "_id": 54861
+    },
+    {
+      "case_enquiry_id": "101003266184",
+      "case_title": "Working Beyond Hours",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 23:14:00",
+      "location": "457-469A W Broadway  South Boston  MA  02127",
+      "_id": 54847
+    },
+    {
+      "case_enquiry_id": "101003266140",
+      "case_title": "Work w/out Permit",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 20:55:00",
+      "location": "502 E Third St  South Boston  MA  02127",
+      "_id": 54834
+    },
+    {
+      "case_enquiry_id": "101003266062",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 18:09:19",
+      "location": "728 E Second St  South Boston  MA  02127",
+      "_id": 54818
+    },
+    {
+      "case_enquiry_id": "101003266015",
+      "case_title": "Missed Trash: District 05",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 17:16:00",
+      "location": "889 E First St  South Boston  MA  02127",
+      "_id": 54809
+    },
+    {
+      "case_enquiry_id": "101003265919",
+      "case_title": "Maintenance Complaint - Residential",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 15:16:00",
+      "location": "25 James O'neill St  South Boston  MA  02127",
+      "_id": 54797
+    },
+    {
+      "case_enquiry_id": "101003265914",
+      "case_title": "Poor Conditions of Property",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 15:04:00",
+      "location": "39 Middle St  South Boston  MA  02127",
+      "_id": 54796
+    },
+    {
+      "case_enquiry_id": "101003265886",
+      "case_title": "Public Works General Request",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 14:38:00",
+      "location": "213 W Ninth St  South Boston  MA  02127",
+      "_id": 54790
+    },
+    {
+      "case_enquiry_id": "101003265817",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 13:28:03",
+      "location": "171 K St  South Boston  MA  02127",
+      "_id": 54773
+    },
+    {
+      "case_enquiry_id": "101003265787",
+      "case_title": "Missed Trash: District 05",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 12:54:00",
+      "location": "94 G St  South Boston  MA  02127",
+      "_id": 54768
+    },
+    {
+      "case_enquiry_id": "101003265608",
+      "case_title": "Abandoned Vehicles",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eaad735750591e755d6f6bb/report.jpg",
+      "open_dt": "2020-04-30 09:48:00",
+      "location": "12 Leeds St  South Boston  MA  02127",
+      "_id": 54735
+    },
+    {
+      "case_enquiry_id": "101003265438",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 06:49:44",
+      "location": "151-155 K St  South Boston  MA  02127",
+      "_id": 54701
+    },
+    {
+      "case_enquiry_id": "101003265425",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 06:09:15",
+      "location": "140 K St  South Boston  MA  02127",
+      "_id": 54698
+    },
+    {
+      "case_enquiry_id": "101003268880",
+      "case_title": "Work w/out Permit",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 16:01:00",
+      "location": "812 E Sixth St  South Boston  MA  02127",
+      "_id": 50706
+    },
+    {
+      "case_enquiry_id": "101003270113",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-05-05 22:11:06",
+      "location": "748 E Third St  South Boston  MA  02127",
+      "_id": 37030
+    },
+    {
+      "case_enquiry_id": "101003269919",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-05-05 17:15:53",
+      "location": "1 Lovis St  South Boston  MA  02127",
+      "_id": 36996
+    },
+    {
+      "case_enquiry_id": "101003269884",
+      "case_title": "Requests for Street Cleaning",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eb1cecc7505fff8acdeb207/report.jpg",
+      "open_dt": "2020-05-05 16:38:51",
+      "location": "584 E Third St  South Boston  MA  02127",
+      "_id": 36992
+    },
+    {
+      "case_enquiry_id": "101003269802",
+      "case_title": "Sign Repair",
+      "submittedphoto": null,
+      "open_dt": "2020-05-05 15:09:46",
+      "location": "550R E Seventh St  South Boston  MA  02127",
+      "_id": 36987
+    },
+    {
+      "case_enquiry_id": "101003269608",
+      "case_title": "Request for Recycling Cart",
+      "submittedphoto": null,
+      "open_dt": "2020-05-05 12:04:00",
+      "location": "144 W Sixth St  South Boston  MA  02127",
+      "_id": 36953
+    },
+    {
+      "case_enquiry_id": "101003269592",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-05-05 11:52:21",
+      "location": "3 Lovis St  South Boston  MA  02127",
+      "_id": 36945
+    },
+    {
+      "case_enquiry_id": "101003269406",
+      "case_title": "Recycling Cart Return",
+      "submittedphoto": null,
+      "open_dt": "2020-05-05 09:38:00",
+      "location": "882 E Broadway  South Boston  MA  02127",
+      "_id": 36911
+    },
+    {
+      "case_enquiry_id": "101003269364",
+      "case_title": "Requests for Street Cleaning",
+      "submittedphoto": null,
+      "open_dt": "2020-05-05 09:10:00",
+      "location": "3 Bantry Way  South Boston  MA  02127",
+      "_id": 36902
+    },
+    {
+      "case_enquiry_id": "101003269226",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-05-05 05:46:38",
+      "location": "66 Dorchester St  South Boston  MA  02127",
+      "_id": 36883
+    },
+    {
+      "case_enquiry_id": "101003269061",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 18:30:35",
+      "location": "159 K St  South Boston  MA  02127",
+      "_id": 36859
+    },
+    {
+      "case_enquiry_id": "101003268889",
+      "case_title": "Work w/out Permit",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 16:06:00",
+      "location": "562 E Fifth St  South Boston  MA  02127",
+      "_id": 36831
+    },
+    {
+      "case_enquiry_id": "101003268839",
+      "case_title": "Work w/out Permit",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 15:32:00",
+      "location": "380 W Broadway  South Boston  MA  02127",
+      "_id": 36821
+    },
+    {
+      "case_enquiry_id": "101003268730",
+      "case_title": "Unsafe/Dangerous Conditions",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 13:39:00",
+      "location": "63 Middle St  South Boston  MA  02127",
+      "_id": 36801
+    },
+    {
+      "case_enquiry_id": "101003268607",
+      "case_title": "Abandoned Building",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 12:10:00",
+      "location": "206 W Second St  South Boston  MA  02127",
+      "_id": 36782
+    },
+    {
+      "case_enquiry_id": "101003268408",
+      "case_title": "Illegal Dumping",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 09:53:00",
+      "location": "227-229 W Ninth St  South Boston  MA  02127",
+      "_id": 36748
+    },
+    {
+      "case_enquiry_id": "101003268354",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 09:12:37",
+      "location": "201 K St  South Boston  MA  02127",
+      "_id": 36739
+    },
+    {
+      "case_enquiry_id": "101003268256",
+      "case_title": "Empty Litter Basket",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eafff8c7505160fa7fae387/photo_20200504_074129.jpg",
+      "open_dt": "2020-05-04 07:42:00",
+      "location": "240 Old Colony Ave  South Boston  MA  02127",
+      "_id": 36715
+    },
+    {
+      "case_enquiry_id": "101003268239",
+      "case_title": "Requests for Street Cleaning",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eaffb987505160fa7fae303/report.jpg",
+      "open_dt": "2020-05-04 07:25:00",
+      "location": "636 Dorchester Ave  South Boston  MA  02127",
+      "_id": 36708
+    },
+    {
+      "case_enquiry_id": "101003268091",
+      "case_title": "Improper Storage of Trash (Barrels)",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eaf5cf57505160fa7fad910/report.jpg",
+      "open_dt": "2020-05-03 20:08:33",
+      "location": "583 E Fourth St  South Boston  MA  02127",
+      "_id": 36688
+    },
+    {
+      "case_enquiry_id": "101003268073",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-05-03 19:27:59",
+      "location": "101 Farragut Rd  South Boston  MA  02127",
+      "_id": 36683
+    },
+    {
+      "case_enquiry_id": "101003267910",
+      "case_title": "Bed Bugs",
+      "submittedphoto": null,
+      "open_dt": "2020-05-03 15:36:33",
+      "location": "11-15 Logan Way  South Boston  MA  02127",
+      "_id": 36663
+    },
+    {
+      "case_enquiry_id": "101003267765",
+      "case_title": "Litter / Ground Maintenance - Marine Park (DCR)",
+      "submittedphoto": null,
+      "open_dt": "2020-05-03 12:39:00",
+      "location": "33 Lennon Ct  South Boston  MA  02127",
+      "_id": 36634
+    },
+    {
+      "case_enquiry_id": "101003267384",
+      "case_title": "Poor Conditions of Property",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eade9587505160fa7faae3a/report.jpg",
+      "open_dt": "2020-05-02 17:42:55",
+      "location": "16 Leeds St  South Boston  MA  02127",
+      "_id": 36581
+    },
+    {
+      "case_enquiry_id": "101003267291",
+      "case_title": "Requests for Street Cleaning",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eadd28b7505160fa7faa9f0/report.jpg",
+      "open_dt": "2020-05-02 16:05:42",
+      "location": "10 F St  South Boston  MA  02127",
+      "_id": 36569
+    },
+    {
+      "case_enquiry_id": "101003267268",
+      "case_title": "Improper Storage of Trash (Barrels)",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eadcd3a7505160fa7faa8c0/photo_20200502_154229.jpg",
+      "open_dt": "2020-05-02 15:44:31",
+      "location": "8 Pacific St  South Boston  MA  02127",
+      "_id": 36565
+    },
+    {
+      "case_enquiry_id": "101003267037",
+      "case_title": "Schedule Bulk Item Pickup",
+      "submittedphoto": null,
+      "open_dt": "2020-05-02 11:11:37",
+      "location": "367 E St  South Boston  MA  02127",
+      "_id": 36524
+    },
+    {
+      "case_enquiry_id": "101003266808",
+      "case_title": "Missed Bulk Item Pickup: District 05",
+      "submittedphoto": null,
+      "open_dt": "2020-05-01 18:26:00",
+      "location": "316 W Fourth St  South Boston  MA  02127",
+      "_id": 36491
+    },
+    {
+      "case_enquiry_id": "101003266651",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eac7b91750591e755d7d7c1/photo_20200501_154138.jpg",
+      "open_dt": "2020-05-01 15:42:20",
+      "location": "301 E Eighth St  South Boston  MA  02127",
+      "_id": 36460
+    },
+    {
+      "case_enquiry_id": "101003266500",
+      "case_title": "Requests for Street Cleaning",
+      "submittedphoto": " https://cityworker.cityofboston.gov:8443/attachments/report/5eac558fe7f90fcef48ebb26/photo/Report.jpg",
+      "open_dt": "2020-05-01 13:00:04",
+      "location": "8 Monks St  South Boston  MA  02127",
+      "_id": 36435
+    },
+    {
+      "case_enquiry_id": "101003266428",
+      "case_title": "Street Light Outages",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eac45f3750591e755d7ceea/report.jpg",
+      "open_dt": "2020-05-01 11:53:32",
+      "location": "105-113 Dorchester St  South Boston  MA  02127",
+      "_id": 36420
+    },
+    {
+      "case_enquiry_id": "101003266422",
+      "case_title": "Schedule a Bulk Item Pickup",
+      "submittedphoto": null,
+      "open_dt": "2020-05-01 11:46:00",
+      "location": "10 Story St  South Boston  MA  02127",
+      "_id": 36417
+    },
+    {
+      "case_enquiry_id": "101003266361",
+      "case_title": "Unsanitary Conditions - Establishment",
+      "submittedphoto": null,
+      "open_dt": "2020-05-01 10:20:44",
+      "location": "6-8 Wadleigh Pl  South Boston  MA  02127",
+      "_id": 36399
+    },
+    {
+      "case_enquiry_id": "101003266351",
+      "case_title": "Unsanitary Conditions - Establishment",
+      "submittedphoto": null,
+      "open_dt": "2020-05-01 10:09:12",
+      "location": "412-414 W Broadway  South Boston  MA  02127",
+      "_id": 36397
+    },
+    {
+      "case_enquiry_id": "101003266337",
+      "case_title": "Needle Pickup",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eac2a6d750591e755d7cbff/report.jpg",
+      "open_dt": "2020-05-01 09:56:08",
+      "location": "561 Dorchester Ave  South Boston  MA  02127",
+      "_id": 36395
+    },
+    {
+      "case_enquiry_id": "101003266313",
+      "case_title": "Improper Storage of Trash (Barrels)",
+      "submittedphoto": null,
+      "open_dt": "2020-05-01 09:37:59",
+      "location": "907 E Broadway  South Boston  MA  02127",
+      "_id": 36391
+    },
+    {
+      "case_enquiry_id": "101003266286",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-05-01 09:11:04",
+      "location": "171 K St  South Boston  MA  02127",
+      "_id": 36387
+    },
+    {
+      "case_enquiry_id": "101003266202",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-05-01 06:08:57",
+      "location": "142 K St  South Boston  MA  02127",
+      "_id": 36367
+    },
+    {
+      "case_enquiry_id": "101003266181",
+      "case_title": "Work w/out Permit",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 23:03:00",
+      "location": "452 W Fourth St  South Boston  MA  02127",
+      "_id": 36360
+    },
+    {
+      "case_enquiry_id": "101003266119",
+      "case_title": "New Tree Requests",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eab64ec750591e755d7b179/report.jpg",
+      "open_dt": "2020-04-30 19:53:28",
+      "location": "248 W Fifth St  South Boston  MA  02127",
+      "_id": 36347
+    },
+    {
+      "case_enquiry_id": "101003266110",
+      "case_title": "Requests for Street Cleaning",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eab6049750591e755d7a18d/report.jpg",
+      "open_dt": "2020-04-30 19:33:41",
+      "location": "17 Boston St  South Boston  MA  02127",
+      "_id": 36345
+    },
+    {
+      "case_enquiry_id": "101003266072",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eab4f66750591e755d73b34/photo_20200430_182122.jpg",
+      "open_dt": "2020-04-30 18:21:38",
+      "location": "298 E Eighth St  South Boston  MA  02127",
+      "_id": 36336
+    },
+    {
+      "case_enquiry_id": "101003265949",
+      "case_title": "Needle Pickup",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 16:02:00",
+      "location": "340 Dorchester St  South Boston  MA  02127",
+      "_id": 36312
+    },
+    {
+      "case_enquiry_id": "101003265692",
+      "case_title": "Missed Recycling: District 05",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 11:17:00",
+      "location": "365 W Second St  South Boston  MA  02127",
+      "_id": 36266
+    },
+    {
+      "case_enquiry_id": "101003265585",
+      "case_title": "Missed Trash: District 05",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 09:28:00",
+      "location": "700 E Fourth St  South Boston  MA  02127",
+      "_id": 36246
+    },
+    {
+      "case_enquiry_id": "101003265526",
+      "case_title": "Rodent Activity",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 08:34:00",
+      "location": "25 Crowley-Rogers Way  South Boston  MA  02127",
+      "_id": 36232
+    },
+    {
+      "case_enquiry_id": "101003265476",
+      "case_title": "Requests for Street Cleaning",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eaab93f750591e755d6f1f2/report.jpg",
+      "open_dt": "2020-04-30 07:41:00",
+      "location": "94 I St  South Boston  MA  02127",
+      "_id": 36223
+    },
+    {
+      "case_enquiry_id": "101003265462",
+      "case_title": "Requests for Street Cleaning",
+      "submittedphoto": " https://cityworker.cityofboston.gov:8443/attachments/report/5eaab5a3e7f951bf06f61fa0/photo/Report.jpg",
+      "open_dt": "2020-04-30 07:25:29",
+      "location": "236 K St  South Boston  MA  02127",
+      "_id": 36220
+    },
+    {
+      "case_enquiry_id": "101003268681",
+      "case_title": "Request for Recycling Cart",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 12:57:00",
+      "location": "279 Gold St  South Boston  MA  02127",
+      "_id": 33492
+    },
+    {
+      "case_enquiry_id": "101003270009",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eb1ee237505fff8acdeb6af/56DA9AD6-B2A8-4E0D-AE3F-8D983D06EB90.jpeg",
+      "open_dt": "2020-05-05 18:52:34",
+      "location": "873 E Broadway  South Boston  MA  02127",
+      "_id": 18550
+    },
+    {
+      "case_enquiry_id": "101003270005",
+      "case_title": "Needle Pickup",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eb1ed047505fff8acdeb67f/report.jpg",
+      "open_dt": "2020-05-05 18:47:45",
+      "location": "291 Silver St  South Boston  MA  02127",
+      "_id": 18548
+    },
+    {
+      "case_enquiry_id": "101003269782",
+      "case_title": "Schedule Bulk Item Pickup",
+      "submittedphoto": null,
+      "open_dt": "2020-05-05 14:53:41",
+      "location": "60 G St  South Boston  MA  02127",
+      "_id": 18515
+    },
+    {
+      "case_enquiry_id": "101003269781",
+      "case_title": "Request for Recycling Cart",
+      "submittedphoto": null,
+      "open_dt": "2020-05-05 14:52:00",
+      "location": "593 E Second St  South Boston  MA  02127",
+      "_id": 18514
+    },
+    {
+      "case_enquiry_id": "101003269685",
+      "case_title": "Schedule a Bulk Item Pickup",
+      "submittedphoto": null,
+      "open_dt": "2020-05-05 13:25:00",
+      "location": "717 E Third St  South Boston  MA  02127",
+      "_id": 18496
+    },
+    {
+      "case_enquiry_id": "101003269667",
+      "case_title": "Schedule a Bulk Item Pickup",
+      "submittedphoto": null,
+      "open_dt": "2020-05-05 13:07:00",
+      "location": "490 E Seventh St  South Boston  MA  02127",
+      "_id": 18493
+    },
+    {
+      "case_enquiry_id": "101003269597",
+      "case_title": "Schedule a Bulk Item Pickup",
+      "submittedphoto": null,
+      "open_dt": "2020-05-05 11:54:00",
+      "location": "185 E St  South Boston  MA  02127",
+      "_id": 18481
+    },
+    {
+      "case_enquiry_id": "101003269350",
+      "case_title": "Sticker Request",
+      "submittedphoto": null,
+      "open_dt": "2020-05-05 09:04:00",
+      "location": "23 Ticknor St  South Boston  MA  02127",
+      "_id": 18430
+    },
+    {
+      "case_enquiry_id": "101003269239",
+      "case_title": "Poor Conditions of Property",
+      "submittedphoto": null,
+      "open_dt": "2020-05-05 06:47:58",
+      "location": "187 L St  South Boston  MA  02127",
+      "_id": 18407
+    },
+    {
+      "case_enquiry_id": "101003269237",
+      "case_title": "Improper Storage of Trash (Barrels)",
+      "submittedphoto": null,
+      "open_dt": "2020-05-05 06:30:22",
+      "location": "187 L St  South Boston  MA  02127",
+      "_id": 18406
+    },
+    {
+      "case_enquiry_id": "101003269075",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eb09b127505fff8acde6658/report.jpg",
+      "open_dt": "2020-05-04 18:45:51",
+      "location": "41 Swallow St  South Boston  MA  02127",
+      "_id": 18380
+    },
+    {
+      "case_enquiry_id": "101003269074",
+      "case_title": "Requests for Street Cleaning",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eb09af17505fff8acde664e/report.jpg",
+      "open_dt": "2020-05-04 18:45:00",
+      "location": "130 B St  South Boston  MA  02127",
+      "_id": 18379
+    },
+    {
+      "case_enquiry_id": "101003269197",
+      "case_title": "Work w/out Permit",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 22:51:00",
+      "location": "815 E Fifth St  South Boston  MA  02127",
+      "_id": 18363
+    },
+    {
+      "case_enquiry_id": "101003268928",
+      "case_title": "Sign Repair",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eb07d337505fff8acde5f89/report.jpg",
+      "open_dt": "2020-05-04 16:38:00",
+      "location": "74 H St  South Boston  MA  02127",
+      "_id": 18355
+    },
+    {
+      "case_enquiry_id": "101003268925",
+      "case_title": "Tree Emergencies",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 16:37:00",
+      "location": "144 M St  South Boston  MA  02127",
+      "_id": 18354
+    },
+    {
+      "case_enquiry_id": "101003268922",
+      "case_title": "Working Beyond Hours",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 16:31:00",
+      "location": "365 W Broadway  South Boston  MA  02127",
+      "_id": 18353
+    },
+    {
+      "case_enquiry_id": "101003268881",
+      "case_title": "Poor Conditions of Property",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 16:02:11",
+      "location": "924 E Fourth St  South Boston  MA  02127",
+      "_id": 18345
+    },
+    {
+      "case_enquiry_id": "101003268770",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eb05e967505fff8acde5ac4/report.jpg",
+      "open_dt": "2020-05-04 14:27:54",
+      "location": "14 Ward St  South Boston  MA  02127",
+      "_id": 18326
+    },
+    {
+      "case_enquiry_id": "101003268691",
+      "case_title": "Schedule Bulk Item Pickup",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 13:07:27",
+      "location": "133 H St  South Boston  MA  02127",
+      "_id": 18306
+    },
+    {
+      "case_enquiry_id": "101003268603",
+      "case_title": "Schedule a Bulk Item Pickup",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 12:07:00",
+      "location": "27 Woodward St  South Boston  MA  02127",
+      "_id": 18293
+    },
+    {
+      "case_enquiry_id": "101003268596",
+      "case_title": "Broken Park Equipment - Lee Playground (BPRD)",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eb03c8875053e839ecb3a8d/report.jpg",
+      "open_dt": "2020-05-04 12:02:27",
+      "location": "775 E First St  South Boston  MA  02127",
+      "_id": 18291
+    },
+    {
+      "case_enquiry_id": "101003268575",
+      "case_title": "Work w/out Permit",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 11:49:00",
+      "location": "390 W Fourth St  South Boston  MA  02127",
+      "_id": 18283
+    },
+    {
+      "case_enquiry_id": "101003268522",
+      "case_title": "Schedule a Bulk Item Pickup",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 11:12:00",
+      "location": "478 E Eighth St  South Boston  MA  02127",
+      "_id": 18274
+    },
+    {
+      "case_enquiry_id": "101003268457",
+      "case_title": "CE Collection",
+      "submittedphoto": " https://cityworker.cityofboston.gov:8443/attachments/report/5eb02449e7f9bca61ae67c86/photo/Report.jpg",
+      "open_dt": "2020-05-04 10:18:52",
+      "location": "228 W Ninth St  South Boston  MA  02127",
+      "_id": 18263
+    },
+    {
+      "case_enquiry_id": "101003268360",
+      "case_title": "Utility Casting Repair",
+      "submittedphoto": " https://cityworker.cityofboston.gov:8443/attachments/report/5eb01611e7f98d7b4e99cac5/photo/Report.jpg",
+      "open_dt": "2020-05-04 09:18:17",
+      "location": "534 E Seventh St  South Boston  MA  02127",
+      "_id": 18244
+    },
+    {
+      "case_enquiry_id": "101003268285",
+      "case_title": "Work w/out Permit",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 08:16:00",
+      "location": "171 K St  South Boston  MA  02127",
+      "_id": 18231
+    },
+    {
+      "case_enquiry_id": "101003268283",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eb007297505160fa7fae455/D751176C-40BE-4C61-ABBC-8CE40502D97A.jpeg",
+      "open_dt": "2020-05-04 08:14:48",
+      "location": "873 E Broadway  South Boston  MA  02127",
+      "_id": 18229
+    },
+    {
+      "case_enquiry_id": "101003268273",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 08:05:02",
+      "location": "4 Glover Ct  South Boston  MA  02127",
+      "_id": 18224
+    },
+    {
+      "case_enquiry_id": "101003268250",
+      "case_title": "CE Collection",
+      "submittedphoto": " https://cityworker.cityofboston.gov:8443/attachments/report/5eaffe6ae7f951bf06f63006/photo/Report.jpg",
+      "open_dt": "2020-05-04 07:37:20",
+      "location": "559 E Fourth St  South Boston  MA  02127",
+      "_id": 18218
+    },
+    {
+      "case_enquiry_id": "101003268200",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 06:26:03",
+      "location": "561 E Fifth St  South Boston  MA  02127",
+      "_id": 18206
+    },
+    {
+      "case_enquiry_id": "101003268189",
+      "case_title": "Animal Found",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 05:22:00",
+      "location": "101 W Broadway   South Boston  MA  02127",
+      "_id": 18204
+    },
+    {
+      "case_enquiry_id": "101003268121",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eaf6baf7505160fa7fadb38/74756FF7-82E3-42A9-AF10-44A1524442C7.jpeg",
+      "open_dt": "2020-05-03 21:11:22",
+      "location": "881 E Broadway  South Boston  MA  02127",
+      "_id": 18197
+    },
+    {
+      "case_enquiry_id": "101003268079",
+      "case_title": "Work w/out Permit",
+      "submittedphoto": null,
+      "open_dt": "2020-05-03 19:40:00",
+      "location": "450 E Third St  South Boston  MA  02127",
+      "_id": 18194
+    },
+    {
+      "case_enquiry_id": "101003268077",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-05-03 19:31:21",
+      "location": "893 E Broadway  South Boston  MA  02127",
+      "_id": 18193
+    },
+    {
+      "case_enquiry_id": "101003268056",
+      "case_title": "Litter / Ground Maintenance - Marine Park (DCR)",
+      "submittedphoto": null,
+      "open_dt": "2020-05-03 19:16:00",
+      "location": "1889 William J Day Blvd  South Boston  MA  02127",
+      "_id": 18190
+    },
+    {
+      "case_enquiry_id": "101003267747",
+      "case_title": "Poor Conditions of Property",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eaeef137505160fa7fac5ac/report.jpg",
+      "open_dt": "2020-05-03 12:20:04",
+      "location": "88 F St  South Boston  MA  02127",
+      "_id": 18160
+    },
+    {
+      "case_enquiry_id": "101003267630",
+      "case_title": "Requests for Street Cleaning",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eaec9197505160fa7fac012/report.jpg",
+      "open_dt": "2020-05-03 09:37:00",
+      "location": "1422 Columbia Rd  South Boston  MA  02127",
+      "_id": 18141
+    },
+    {
+      "case_enquiry_id": "101003267596",
+      "case_title": "Improper Storage of Trash (Barrels)",
+      "submittedphoto": null,
+      "open_dt": "2020-05-03 08:47:29",
+      "location": "244 E St  South Boston  MA  02127",
+      "_id": 18130
+    },
+    {
+      "case_enquiry_id": "101003267514",
+      "case_title": "Pest Infestation - Residential",
+      "submittedphoto": null,
+      "open_dt": "2020-05-02 21:20:00",
+      "location": "88 F St  South Boston  MA  02127",
+      "_id": 18124
+    },
+    {
+      "case_enquiry_id": "101003267408",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eadef577505160fa7faaf6a/8EFC1AE2-8222-4A15-B078-84C7BB13447F.jpeg",
+      "open_dt": "2020-05-02 18:08:34",
+      "location": "883 E Broadway  South Boston  MA  02127",
+      "_id": 18117
+    },
+    {
+      "case_enquiry_id": "101003267372",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eade5017505160fa7faada3/photo_20200502_172258.jpg",
+      "open_dt": "2020-05-02 17:24:28",
+      "location": "320 Dorchester Ave  South Boston  MA  02127",
+      "_id": 18110
+    },
+    {
+      "case_enquiry_id": "101003267369",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eade4927505160fa7faad7c/photo_20200502_172149.jpg",
+      "open_dt": "2020-05-02 17:22:40",
+      "location": "320 Dorchester Ave  South Boston  MA  02127",
+      "_id": 18109
+    },
+    {
+      "case_enquiry_id": "101003267286",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-05-02 16:02:00",
+      "location": "12 Henry Sterling Sq  South Boston  MA  02127",
+      "_id": 18096
+    },
+    {
+      "case_enquiry_id": "101003267206",
+      "case_title": "Sidewalk Repair (Make Safe)",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eadbeba7505160fa7faa5ae/photo_20200502_144002.jpg",
+      "open_dt": "2020-05-02 14:41:00",
+      "location": "151 P St  South Boston  MA  02127",
+      "_id": 18089
+    },
+    {
+      "case_enquiry_id": "101003267169",
+      "case_title": "Needle Pickup",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eadb50d7505160fa7faa40b/report.jpg",
+      "open_dt": "2020-05-02 13:59:49",
+      "location": "496 Southampton St  South Boston  MA  02127",
+      "_id": 18083
+    },
+    {
+      "case_enquiry_id": "101003267140",
+      "case_title": "CE Collection",
+      "submittedphoto": " https://cityworker.cityofboston.gov:8443/attachments/report/5eadab7ee7f951bf06f62bb9/photo/Report.jpg",
+      "open_dt": "2020-05-02 13:19:00",
+      "location": "15 Vinton St  South Boston  MA  02127",
+      "_id": 18076
+    },
+    {
+      "case_enquiry_id": "101003266935",
+      "case_title": "Request for Recycling Cart",
+      "submittedphoto": null,
+      "open_dt": "2020-05-02 08:35:00",
+      "location": "636 E Eighth St  South Boston  MA  02127",
+      "_id": 18043
+    },
+    {
+      "case_enquiry_id": "101003266711",
+      "case_title": "Requests for Street Cleaning",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eac8bbe750591e755d7d9b7/report.jpg",
+      "open_dt": "2020-05-01 16:51:20",
+      "location": "8-10 Silver St  South Boston  MA  02127",
+      "_id": 18005
+    },
+    {
+      "case_enquiry_id": "101003266559",
+      "case_title": "Improper Storage of Trash (Barrels)",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eac60ca750591e755d7d2c3/report.jpg",
+      "open_dt": "2020-05-01 13:48:09",
+      "location": "812 E Sixth St  South Boston  MA  02127",
+      "_id": 17980
+    },
+    {
+      "case_enquiry_id": "101003266379",
+      "case_title": "Unsanitary Conditions - Establishment",
+      "submittedphoto": null,
+      "open_dt": "2020-05-01 10:42:36",
+      "location": "749 E Broadway  South Boston  MA  02127",
+      "_id": 17949
+    },
+    {
+      "case_enquiry_id": "101003266371",
+      "case_title": "Contractors Complaint",
+      "submittedphoto": null,
+      "open_dt": "2020-05-01 10:33:11",
+      "location": "815 E Fifth St  South Boston  MA  02127",
+      "_id": 17946
+    },
+    {
+      "case_enquiry_id": "101003266334",
+      "case_title": "Request for Recycling Cart",
+      "submittedphoto": null,
+      "open_dt": "2020-05-01 09:52:00",
+      "location": "24 Jenkins St  South Boston  MA  02127",
+      "_id": 17942
+    },
+    {
+      "case_enquiry_id": "101003266294",
+      "case_title": "CE Collection",
+      "submittedphoto": " https://cityworker.cityofboston.gov:8443/attachments/report/5eac22cbe7f98198ee4a064f/photo/Report.jpg",
+      "open_dt": "2020-05-01 09:23:28",
+      "location": "430 W Broadway  South Boston  MA  02127",
+      "_id": 17939
+    },
+    {
+      "case_enquiry_id": "101003266264",
+      "case_title": "Requests for Street Cleaning",
+      "submittedphoto": " https://cityworker.cityofboston.gov:8443/attachments/report/5eac1b10e7f951bf06f625d8/photo/Report.jpg",
+      "open_dt": "2020-05-01 08:50:28",
+      "location": "354 W Broadway  South Boston  MA  02127",
+      "_id": 17934
+    },
+    {
+      "case_enquiry_id": "101003266259",
+      "case_title": "Needle Pickup",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eac194c750591e755d7ca2e/report.jpg",
+      "open_dt": "2020-05-01 08:43:05",
+      "location": "340 Dorchester St  South Boston  MA  02127",
+      "_id": 17933
+    },
+    {
+      "case_enquiry_id": "101003266179",
+      "case_title": "Contractors Complaint",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 22:58:00",
+      "location": "708 E Sixth St  South Boston  MA  02127",
+      "_id": 17910
+    },
+    {
+      "case_enquiry_id": "101003266169",
+      "case_title": "Work w/out Permit",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 22:01:00",
+      "location": "566 E Sixth St  South Boston  MA  02127",
+      "_id": 17908
+    },
+    {
+      "case_enquiry_id": "101003266149",
+      "case_title": "Street Light Outages",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eab79f3750591e755d7b61e/report.jpg",
+      "open_dt": "2020-04-30 21:23:07",
+      "location": "83 Bolton St  South Boston  MA  02127",
+      "_id": 17903
+    },
+    {
+      "case_enquiry_id": "101003266143",
+      "case_title": "Work w/out Permit",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 21:08:00",
+      "location": "559 E Fifth St  South Boston  MA  02127",
+      "_id": 17901
+    },
+    {
+      "case_enquiry_id": "101003266052",
+      "case_title": "Missed Recycling: District 05",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 17:59:33",
+      "location": "152 Old Colony Ave  South Boston  MA  02127",
+      "_id": 17891
+    },
+    {
+      "case_enquiry_id": "101003266031",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 17:28:42",
+      "location": "298 E Eighth St  South Boston  MA  02127",
+      "_id": 17884
+    },
+    {
+      "case_enquiry_id": "101003265979",
+      "case_title": "Needle Pickup",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eab373f750591e755d7066f/report.jpg",
+      "open_dt": "2020-04-30 16:38:35",
+      "location": "1774 Columbia Rd  South Boston  MA  02127",
+      "_id": 17872
+    },
+    {
+      "case_enquiry_id": "101003265932",
+      "case_title": "Improper Storage of Trash (Barrels)",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eab2996750591e755d704b4/report.jpg",
+      "open_dt": "2020-04-30 15:40:19",
+      "location": "889 E First St  South Boston  MA  02127",
+      "_id": 17861
+    },
+    {
+      "case_enquiry_id": "101003265885",
+      "case_title": "Missed Trash: District 05",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 14:38:00",
+      "location": "213 W Ninth St  South Boston  MA  02127",
+      "_id": 17854
+    },
+    {
+      "case_enquiry_id": "101003265786",
+      "case_title": "Improper Storage of Trash (Barrels)",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eab02b0750591e755d6fba1/report.jpg",
+      "open_dt": "2020-04-30 12:54:21",
+      "location": "812 E Sixth St  South Boston  MA  02127",
+      "_id": 17829
+    },
+    {
+      "case_enquiry_id": "101003265729",
+      "case_title": "Schedule a Bulk Item Pickup",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 11:51:00",
+      "location": "15 Ticknor St  South Boston  MA  02127",
+      "_id": 17813
+    },
+    {
+      "case_enquiry_id": "101003265611",
+      "case_title": "Poor Conditions of Property",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 09:53:11",
+      "location": "88 F St  South Boston  MA  02127",
+      "_id": 17791
+    },
+    {
+      "case_enquiry_id": "101003265554",
+      "case_title": "Parking Enforcement",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 09:06:43",
+      "location": "1 Beckler Ave  South Boston  MA  02127",
+      "_id": 17784
+    },
+    {
+      "case_enquiry_id": "101003265501",
+      "case_title": "CE Collection",
+      "submittedphoto": " https://cityworker.cityofboston.gov:8443/attachments/report/5eaac06ce7f951bf06f61ffc/photo/Report.jpg",
+      "open_dt": "2020-04-30 08:11:00",
+      "location": "28 Boston St  South Boston  MA  02127",
+      "_id": 17777
+    },
+    {
+      "case_enquiry_id": "101003265484",
+      "case_title": "Schedule Bulk Item Pickup",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 07:50:40",
+      "location": "13 Vinton St  South Boston  MA  02127",
+      "_id": 17776
+    },
+    {
+      "case_enquiry_id": "101003265461",
+      "case_title": "Poor Conditions of Property",
+      "submittedphoto": "https://311.boston.gov/media/boston/report/photos/5eaab572750591e755d6f183/report.jpg",
+      "open_dt": "2020-04-30 07:24:43",
+      "location": "30 Boston St  South Boston  MA  02127",
+      "_id": 17765
+    },
+    {
+      "case_enquiry_id": "101003265459",
+      "case_title": "Public Works General Request",
+      "submittedphoto": null,
+      "open_dt": "2020-04-30 07:22:00",
+      "location": "2 Vinton St  South Boston  MA  02127",
+      "_id": 17764
+    },
+    {
+      "case_enquiry_id": "101003269693",
+      "case_title": "Request for Recycling Cart",
+      "submittedphoto": null,
+      "open_dt": "2020-05-05 13:34:00",
+      "location": "525 E Fifth St  South Boston  MA  02127",
+      "_id": 17458
+    },
+    {
+      "case_enquiry_id": "101003268441",
+      "case_title": "Request for Recycling Cart",
+      "submittedphoto": null,
+      "open_dt": "2020-05-04 10:07:00",
+      "location": "406-412 W First St  South Boston  MA  02127",
+      "_id": 17215
+    }
+  ]
+}
